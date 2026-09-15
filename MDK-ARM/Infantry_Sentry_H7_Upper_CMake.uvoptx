@@ -173,7 +173,7 @@
         <Ww>
           <count>3</count>
           <WinNumber>1</WinNumber>
-          <ItemText>chassis</ItemText>
+          <ItemText>chassis,0x0A</ItemText>
         </Ww>
         <Ww>
           <count>4</count>
@@ -239,6 +239,16 @@
           <count>16</count>
           <WinNumber>1</WinNumber>
           <ItemText>img_true_flag,0x0A</ItemText>
+        </Ww>
+        <Ww>
+          <count>17</count>
+          <WinNumber>1</WinNumber>
+          <ItemText>detectList</ItemText>
+        </Ww>
+        <Ww>
+          <count>18</count>
+          <WinNumber>1</WinNumber>
+          <ItemText>\\Infantry_Sentry_H7_Upper_CMake\../UserMiddlewares/src/USER_Detect.c\detectList</ItemText>
         </Ww>
       </WatchWindow1>
       <Tracepoint>
